@@ -1,0 +1,10 @@
+# 日志、临时、缓存、本地配置统统忽略
+*.log
+*.tmp
+*.temp
+*.orig
+*.local
+*.cache
+.eslintcache
+.stylelintcache
+.DS_Store
